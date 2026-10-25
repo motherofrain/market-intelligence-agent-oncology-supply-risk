@@ -1,0 +1,24 @@
+therapeutic_category,n_listings,n_drugs,n_companies,n_current,n_to_be_discontinued,n_resolved,n_injection,n_known_dosage_form,median_days_since_posting,max_days_since_posting,earliest_posting_date,longest_listed_drug,share_injection,share_current
+Anesthesia,372,15,37,353,19,0,371,371,3059.0,5332,2012-01-01,Atropine Sulfate Injection,1.0,0.9489
+Pediatric,296,19,27,278,10,8,238,296,1635.0,5332,2012-01-01,Atropine Sulfate Injection,0.8041,0.9392
+Psychiatry,281,15,34,260,21,0,2,281,1120.0,1395,2022-10-12,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",0.0071,0.9253
+Analgesia/Addiction,185,26,22,128,42,15,132,185,1501.0,5332,2012-01-01,Fentanyl Citrate Injection,0.7135,0.6919
+Gastroenterology,178,20,21,140,30,8,151,167,1635.0,3838,2016-02-03,Sodium Acetate Injection,0.9042,0.7865
+Neurology,177,22,32,126,43,8,89,177,1246.0,5332,2012-01-01,Atropine Sulfate Injection,0.5028,0.7119
+Cardiovascular,161,31,31,100,61,0,80,161,1296.0,3208,2017-10-25,Lidocaine Hydrochloride Injection,0.4969,0.6211
+Endocrinology/Metabolism,154,23,23,114,32,8,141,154,1635.0,3838,2016-02-03,Sodium Acetate Injection,0.9156,0.7403
+Other,136,22,25,105,31,0,95,136,1627.5,2737,2019-02-08,Dexamethasone Sodium Phosphate Injection,0.6985,0.7721
+Oncology,133,23,29,81,44,8,115,133,1197.0,2737,2019-02-08,Dexamethasone Sodium Phosphate Injection,0.8647,0.609
+Anti-Infective,102,33,25,47,54,1,69,102,332.0,4189,2015-02-17,"Cefotaxime Sodium Powder, for Solution",0.6765,0.4608
+Rheumatology,89,12,17,57,24,8,78,88,1243.0,2737,2019-02-08,Dexamethasone Sodium Phosphate Injection,0.8864,0.6404
+Hematology,52,12,15,31,13,8,45,52,2737.0,3188,2017-11-14,Heparin Sodium Injection,0.8654,0.5962
+Pulmonary/Allergy,51,8,17,38,5,8,37,48,1232.0,2737,2019-02-08,Dexamethasone Sodium Phosphate Injection,0.7708,0.7451
+Renal,50,6,8,10,32,8,22,50,169.0,3196,2017-11-06,Dobutamine Hydrochloride Injection,0.44,0.2
+Ophthalmology,38,8,13,21,8,9,28,38,2623.0,2737,2019-02-08,Dexamethasone Sodium Phosphate Injection,0.7368,0.5526
+Dermatology,35,7,12,19,8,8,27,34,2737.0,2737,2019-02-08,Dexamethasone Sodium Phosphate Injection,0.7941,0.5429
+Antiviral,19,13,10,2,17,0,5,19,199.0,560,2025-01-24,Peginterferon alfa-2a Injection,0.2632,0.1053
+Medical Imaging,15,3,3,3,12,0,15,15,38.0,954,2023-12-27,Technetium TC-99M Pyrophosphate Kit Injection,1.0,0.2
+Total Parenteral Nutrition,15,1,5,15,0,0,15,15,3838.0,3838,2016-02-03,Sodium Acetate Injection,1.0,1.0
+Transplant,11,1,3,0,11,0,0,11,213.0,277,2025-11-03,Everolimus Tablet,0.0,0.0
+Urology,4,2,2,0,4,0,0,4,353.0,353,2025-08-19,Finasteride Tablet,0.0,0.0
+Reproductive,1,1,1,0,1,0,1,1,267.0,267,2025-11-13,Cetrorelix Acetate Injection,1.0,0.0

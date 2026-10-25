@@ -1,0 +1,13 @@
+molecule,atc_code,base_fda_rows_2026_08_07,base_fda_companies,base_fda_status,fda_oct_base_rows_still_listed_2026_10_15,fda_oct_new_rows_since_base,base_fda_unavailable_2026_08_07,fda_oct_all_rows_unavailable_2026_10_15,aifa_rows_started_2026_10_20,aifa_licence_holders_all_listed,ema_state,ansm_state,active_non_us_regulators_oct,active_regulators_oct,us_medicaid_2025_rx,us_medicaid_pct_rx_on_listed_ndcs,note
+ifosfamide,L01AA06,7,3,Current:7,7,1,6,3,1,1,"ACTIVE: shortage start 2026-02-12, published 2026-02-13 (upd 2026-03-03)",active: Holoxan 1 g + 2 g supply tension since 2026-01-13,3,4,1554,100.0,"The 15 October United States list also carries one package not present in the August snapshot (SteriMax), so that list shows eight packages from four companies against the August seven from three"
+carboplatin,L01XA02,35,9,Current:29/To Be Discontinued:6,35,0,20,16,11,5,none,none,1,2,48411,100.0,
+methotrexate,L01BA01,14,5,Current:14,14,0,0,4,2,2,"resolved (EMA: 2023-08-09, upd 2026-04-24)",active: Methotrexate Accord 100 mg/mL stock-out since 2023-01-12,2,3,559733,,"Medicaid share omitted: its denominator is mostly oral methotrexate, so it is not comparable. Italy lists two injectable methotrexate prefilled syringes (DOC Generici 15 mg from 2026-08-31, Difa Cooper Velos 10 mg from 2026-09-10) under the immunosuppressant code L04AX03 rather than the oncology code L01BA01, so they are found by substance name, not by code"
+azacitidine,L01BC07,9,9,Current:9,9,0,2,3,1,2,none,none,1,2,17629,64.3,
+oxaliplatin,L01XA03,6,3,To Be Discontinued:6,6,0,0,0,7,4,none,none,1,2,58670,14.7,
+irinotecan,L01CE02,4,2,To Be Discontinued:4,2,0,0,0,1,3,none,none,1,2,35082,7.0,
+gemcitabine,L01BC05,3,1,To Be Discontinued:3,0,0,0,0,6,4,none,active: Gemcitabine Sun stock-out since 2025-11-12,2,2,29217,33.4,FDA notice aged off the rolling 12-month list by 2026-10-15; non-US regulators still list it
+docetaxel,L01CD02,2,1,To Be Discontinued:2,2,0,0,0,4,2,resolved (Taxotere 2016-05-19 to 2016-09-19),none,1,2,22976,0.9,
+bendamustine,L01AA09,1,1,To Be Discontinued:1,1,0,0,0,4,3,none,returned: Bendamustine Hikma back 2026-08-31,1,2,3936,3.2,
+pemetrexed,L01BA04,4,2,To Be Discontinued:4,0,0,0,0,10,7,none,none,1,1,15233,10.8,FDA notice aged off the rolling 12-month list by 2026-10-15; non-US regulators still list it
+decitabine,L01BC08,2,1,To Be Discontinued:2,2,0,0,0,0,0,none,none,0,1,4668,0.6,
+arsenic trioxide,L01XX27,1,1,To Be Discontinued:1,1,1,0,0,0,0,resolved (Trisenox 2017-07-31 to 2018-09-06),returned: Trisenox back 2026-09-16,0,1,3926,14.6,"The 15 October United States list also carries one package not present in the August snapshot (Fresenius Kabi, first posted 2026-09-21), so that list shows two packages"

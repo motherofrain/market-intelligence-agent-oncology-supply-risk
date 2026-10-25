@@ -1,0 +1,240 @@
+generic_name,n_listings,n_companies,n_presentations,n_current,n_to_be_discontinued,n_resolved,earliest_posting_date,latest_posting_date,max_days_since_posting,median_days_since_posting,dosage_forms,therapeutic_category,active_ingredient,application_types,ndc_products_marketed,share_current
+Lisdexamfetamine Dimesylate Capsule,90,13,90,90,0,0,2023-07-14,2024-01-11,1120,1120.0,Capsule,Psychiatry,LISDEXAMFETAMINE DIMESYLATE,ANDA; NDA,198.0,1.0
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",73,11,73,73,0,0,2022-10-12,2023-08-15,1395,1395.0,Tablet,Psychiatry,AMPHETAMINE ASPARTATE MONOHYDRATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE,ANDA,,1.0
+Lidocaine Hydrochloride Injection,69,10,67,67,2,0,2012-02-22,2025-11-07,5280,5280.0,Injection,Analgesia/Addiction; Pediatric,DEXTROSE MONOHYDRATE; LIDOCAINE HYDROCHLORIDE ANHYDROUS,ANDA; NDA,99.0,0.971
+Bupivacaine Hydrochloride Injection,61,8,54,56,5,0,2018-02-20,2026-05-05,3090,3090.0,Injection,Analgesia/Addiction,BUPIVACAINE HYDROCHLORIDE,ANDA; NDA,157.0,0.918
+Dexmedetomidine Hydrochloride Injection,59,17,58,56,3,0,2020-04-10,2026-06-05,2310,2310.0,Injection,Anesthesia,DEXMEDETOMIDINE HYDROCHLORIDE,ANDA; NDA,95.0,0.9492
+Ropivacaine Hydrochloride Injection,49,5,49,49,0,0,2018-03-23,2020-12-22,3059,3059.0,Injection,Anesthesia,ROPIVACAINE HYDROCHLORIDE,ANDA; NDA,98.0,1.0
+Clonazepam Tablet,40,6,40,40,0,0,2023-03-10,2023-03-27,1246,1246.0,Tablet,Neurology; Pediatric; Psychiatry,CLONAZEPAM,ANDA; NDA,152.0,1.0
+Dextrose Monohydrate 5% Injection,38,4,38,38,0,0,2022-02-14,2026-07-20,1635,1635.0,Injection,Endocrinology/Metabolism; Gastroenterology; Other; Pediatric,DEXTROSE MONOHYDRATE,ANDA; NDA,40.0,1.0
+Carboplatin Injection,35,9,31,29,6,0,2023-04-28,2026-06-01,1197,1197.0,Injection,Oncology,CARBOPLATIN,ANDA; NDA,48.0,0.8286
+"Methylphenidate Hydrochloride Tablet, Extended Release",34,6,34,34,0,0,2023-07-26,2023-07-26,1108,1108.0,Tablet,Psychiatry,METHYLPHENIDATE HYDROCHLORIDE,ANDA; NDA,270.0,1.0
+Furosemide Injection,30,8,27,27,3,0,2020-04-07,2026-04-28,2313,2313.0,Injection,Cardiovascular,FUROSEMIDE,ANDA; NDA,177.0,0.9
+Clindamycin Phosphate Injection,26,4,20,20,6,0,2023-03-21,2026-06-01,1235,1235.0,Injection,Anti-Infective,CLINDAMYCIN,ANDA; NDA,8.0,0.7692
+Hydromorphone Hydrochloride Injection,26,4,26,26,0,0,2017-10-31,2017-11-03,3202,3202.0,Injection,Analgesia/Addiction,HYDROMORPHONE HYDROCHLORIDE,ANDA; NDA,92.0,1.0
+Midazolam Hydrochloride Injection,26,6,26,26,0,0,2020-04-02,2020-04-02,2318,2318.0,Injection,Anesthesia; Neurology,MIDAZOLAM,ANDA; NDA,16.0,1.0
+Rocuronium Bromide Injection,26,11,26,26,0,0,2023-02-15,2023-02-15,1269,1269.0,Injection,Anesthesia,ROCURONIUM BROMIDE,ANDA; NDA,76.0,1.0
+Ketorolac Tromethamine Injection,25,7,22,25,0,0,2018-03-23,2018-06-06,3059,3056.0,Injection,Analgesia/Addiction,KETOROLAC TROMETHAMINE,ANDA,208.0,1.0
+Morphine Sulfate Injection,24,5,24,24,0,0,2017-10-31,2018-12-06,3202,3202.0,Injection,Analgesia/Addiction,MORPHINE SULFATE,ANDA; NDA,159.0,1.0
+Quinapril Hydrochloride Tablet,24,5,19,20,4,0,2023-01-19,2025-10-01,1296,1296.0,Tablet,Cardiovascular,QUINAPRIL HYDROCHLORIDE,ANDA,55.0,0.8333
+Methylprednisolone Acetate Injection,23,5,23,23,0,0,2021-12-15,2022-06-16,1696,1696.0,Injection,Rheumatology,METHYLPREDNISOLONE ACETATE,ANDA; NDA,50.0,1.0
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",22,2,22,22,0,0,2012-02-22,2016-10-14,5280,3584.0,Injection,Anesthesia; Pediatric,EPINEPHRINE BITARTRATE; LIDOCAINE HYDROCHLORIDE ANHYDROUS,ANDA; NDA,,1.0
+Atropine Sulfate Injection,21,8,19,19,2,0,2012-01-01,2025-11-07,5332,5332.0,Injection,Anesthesia; Neurology; Pediatric,ATROPINE SULFATE,ANDA; NDA,153.0,0.9048
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",20,2,20,20,0,0,2018-02-20,2018-02-20,3090,3090.0,Injection,Anesthesia,BUPIVACAINE HYDROCHLORIDE; EPINEPHRINE BITARTRATE,ANDA; NDA,,1.0
+Dexamethasone Sodium Phosphate Injection,19,5,19,19,0,0,2019-02-08,2019-02-08,2737,2737.0,Injection,Dermatology; Endocrinology/Metabolism; Gastroenterology; Hematology; Neurology; Oncology; Ophthalmology; Other; Pulmonary/Allergy; Rheumatology,DEXAMETHASONE SODIUM PHOSPHATE,ANDA,110.0,1.0
+Fentanyl Citrate Injection,19,3,19,19,0,0,2012-01-01,2023-12-20,5332,5332.0,Injection,Analgesia/Addiction; Pediatric,FENTANYL CITRATE,ANDA; NDA,36.0,1.0
+Sodium Bicarbonate Injection,19,5,15,15,4,0,2017-03-01,2025-11-07,3446,3446.0,Injection,Endocrinology/Metabolism; Gastroenterology; Pediatric,SODIUM BICARBONATE,ANDA,271.0,0.7895
+"Calcium Chloride; Dextrose; Magnesium Chloride; Sodium Chloride; Sodium Lactate Intraperitoneal Injection, Solution",18,1,18,0,18,0,2026-08-03,2026-08-03,4,4.0,Solution,Renal,CALCIUM CHLORIDE; DEXTROSE MONOHYDRATE; MAGNESIUM CHLORIDE; SODIUM CHLORIDE; SODIUM LACTATE,NDA,,0.0
+Etomidate Injection,18,6,18,18,0,0,2022-10-05,2022-10-05,1402,1402.0,Injection,Anesthesia,ETOMIDATE,ANDA; NDA,30.0,1.0
+"Lisdexamfetamine Dimesylate Tablet, Chewable",18,3,18,18,0,0,2023-07-14,2023-07-14,1120,1120.0,"Tablet, Chewable",Psychiatry,LISDEXAMFETAMINE DIMESYLATE,ANDA; NDA,198.0,1.0
+Amino Acid Injection,16,3,16,16,0,0,2020-12-08,2020-12-08,2068,2068.0,Injection,Gastroenterology,ACETYL L-TYROSINE; ALANINE; ARGININE; ASPARTIC ACID; CYSTEINE HYDROCHLORIDE; GLUTAMIC ACID; GLYCINE; HISTIDINE; ISOLEUCINE; LEUCINE; LYSINE ACETATE; METHIONINE; PHENYLALANINE; PROLINE; SERINE; TAURINE; THREONINE; TRYPTOPHAN; TYROSINE; VALINE,ANDA; NDA,,1.0
+Nebivolol Hydrochloride Tablet,16,1,16,0,16,0,2026-03-25,2026-03-25,135,135.0,Tablet,Cardiovascular,,,,0.0
+Naltrexone Hydrochloride Tablet,15,5,15,0,0,15,2024-02-29,2024-02-29,890,890.0,Tablet,Analgesia/Addiction,NALTREXONE HYDROCHLORIDE,ANDA,101.0,0.0
+Sodium Acetate Injection,15,5,15,15,0,0,2016-02-03,2016-03-23,3838,3838.0,Injection,Endocrinology/Metabolism; Gastroenterology; Pediatric; Total Parenteral Nutrition,SODIUM ACETATE,ANDA; NDA,16.0,1.0
+Methotrexate Sodium Injection,14,5,14,14,0,0,2023-03-13,2023-03-13,1243,1243.0,Injection,Oncology; Rheumatology,METHOTREXATE,ANDA; NDA,28.0,1.0
+Dextrose Monohydrate 10% Injection,13,4,13,13,0,0,2022-03-01,2022-03-01,1620,1620.0,Injection,Endocrinology/Metabolism; Gastroenterology; Other; Pediatric,DEXTROSE MONOHYDRATE,ANDA; NDA,40.0,1.0
+Bumetanide Injection,12,5,12,12,0,0,2017-12-13,2018-01-31,3159,3134.5,Injection,Cardiovascular,BUMETANIDE,ANDA,139.0,1.0
+Dopamine Hydrochloride Injection,12,3,11,11,1,0,2017-11-06,2025-08-27,3196,3196.0,Injection,Cardiovascular,DOPAMINE HYDROCHLORIDE,ANDA; NDA,80.0,0.9167
+Sterile Water Injection,12,5,12,12,0,0,2021-11-23,2021-12-03,1718,1718.0,Injection,Other,WATER,ANDA; NDA,212.0,1.0
+Dobutamine Hydrochloride Injection,11,4,10,10,1,0,2017-11-06,2025-08-27,3196,3196.0,Injection,Cardiovascular; Pediatric; Renal,DOBUTAMINE HYDROCHLORIDE,ANDA; NDA,18.0,0.9091
+Everolimus Tablet,11,3,11,0,11,0,2025-11-03,2026-03-02,277,213.0,Tablet,Transplant,EVEROLIMUS,ANDA,112.0,0.0
+Lorazepam Injection,11,4,11,11,0,0,2018-05-03,2018-09-05,3018,2893.0,Injection,Neurology,LORAZEPAM,ANDA; NDA,160.0,1.0
+Liraglutide Injection,10,4,10,9,1,0,2023-07-18,2026-05-14,1116,1116.0,Injection,Endocrinology/Metabolism,LIRAGLUTIDE,ANDA; NDA,62.0,0.9
+Meperidine Hydrochloride Injection,10,2,10,10,0,0,2025-05-30,2025-05-30,434,434.0,Injection,Analgesia/Addiction,MEPERIDINE HYDROCHLORIDE,ANDA; NDA,16.0,1.0
+Omeprazole Delayed Release Capsule,10,1,10,0,10,0,2025-10-09,2025-10-09,302,302.0,,Gastroenterology,OMEPRAZOLE,ANDA,361.0,0.0
+Promethazine Hydrochloride Injection,10,2,10,10,0,0,2023-11-21,2023-11-21,990,990.0,Injection,Analgesia/Addiction; Gastroenterology; Other; Pulmonary/Allergy,PROMETHAZINE HYDROCHLORIDE,ANDA,170.0,1.0
+Azacitidine Injection,9,9,9,9,0,0,2020-12-18,2020-12-22,2058,2058.0,Injection,Oncology,AZACITIDINE,ANDA; NDA,47.0,1.0
+Quinapril/Hydrochlorothiazide Tablet,9,3,9,9,0,0,2023-01-19,2023-01-19,1296,1296.0,Tablet,Cardiovascular,HYDROCHLOROTHIAZIDE; QUINAPRIL HYDROCHLORIDE,ANDA,,1.0
+Remifentanil Hydrochloride Injection,9,3,9,9,0,0,2022-06-28,2022-06-28,1501,1501.0,Injection,Analgesia/Addiction,REMIFENTANIL HYDROCHLORIDE,ANDA; NDA,19.0,1.0
+Rifampin Capsule,9,2,9,9,0,0,2021-12-22,2021-12-22,1689,1689.0,Capsule,Anti-Infective,RIFAMPIN,ANDA,31.0,1.0
+Sterile Water Irrigant,9,3,9,9,0,0,2023-04-28,2023-04-28,1197,1197.0,Irrigant,Gastroenterology; Other; Pediatric,WATER,NDA,212.0,1.0
+Gadoterate Meglumine Injection,8,1,4,0,8,0,2026-05-21,2026-06-30,78,58.0,Injection,Medical Imaging,GADOTERATE MEGLUMINE,ANDA,17.0,0.0
+Heparin Sodium Injection,8,4,8,8,0,0,2017-11-14,2017-11-14,3188,3188.0,Injection,Hematology,HEPARIN SODIUM,ANDA; NDA,169.0,1.0
+Hydrocortisone Sodium Succinate Injection,8,2,8,0,0,8,2023-03-24,2023-03-24,1232,1232.0,Injection,Dermatology; Endocrinology/Metabolism; Gastroenterology; Hematology; Neurology; Oncology; Ophthalmology; Pediatric; Pulmonary/Allergy; Renal; Rheumatology,HYDROCORTISONE SODIUM SUCCINATE,ANDA; NDA,15.0,0.0
+Phenobarbital Tablet,8,1,8,0,8,0,2025-10-31,2025-10-31,280,280.0,Tablet,Analgesia/Addiction; Neurology; Other,PHENOBARBITAL,,181.0,0.0
+Ifosfamide Injection,7,3,7,7,0,0,2026-06-12,2026-06-12,56,56.0,Injection,Oncology; Pediatric,IFOSFAMIDE,ANDA; NDA,11.0,1.0
+Methotrexate Injection,7,1,7,0,7,0,2025-08-29,2025-08-29,343,343.0,Injection,Rheumatology,,,,0.0
+Acetaminophen; Oxycodone Hydrochloride Tablet,6,1,6,0,6,0,2025-11-03,2025-11-03,277,277.0,Tablet,Analgesia/Addiction,ACETAMINOPHEN; OXYCODONE HYDROCHLORIDE,ANDA,,0.0
+"Cefotaxime Sodium Powder, for Solution",6,2,6,6,0,0,2015-02-17,2015-02-17,4189,4189.0,"Powder, For Solution",Anti-Infective; Pediatric,CEFOTAXIME SODIUM,ANDA,7.0,1.0
+Celecoxib Capsule,6,1,6,0,6,0,2025-08-15,2025-08-15,357,357.0,Capsule,Analgesia/Addiction,CELECOXIB,ANDA,259.0,0.0
+Cromolyn Sodium Concentrate,6,4,6,6,0,0,2023-11-03,2023-11-03,1008,1008.0,Concentrate,Pulmonary/Allergy,CROMOLYN SODIUM,ANDA; NDA,27.0,1.0
+Desipramine Hydrochloride Tablet,6,1,6,0,6,0,2025-08-12,2025-08-12,360,360.0,Tablet,Psychiatry,DESIPRAMINE HYDROCHLORIDE,ANDA,51.0,0.0
+Flurazepam Hydrochloride Capsule,6,2,6,6,0,0,2022-08-03,2022-08-03,1465,1465.0,Capsule,Neurology; Other,FLURAZEPAM HYDROCHLORIDE,ANDA,4.0,1.0
+"Lamotrigine Tablet, Extended Release",6,1,6,0,6,0,2026-04-29,2026-04-29,100,100.0,Tablet,Neurology,LAMOTRIGINE,ANDA,324.0,0.0
+Lasmiditan Succinate Tablet,6,1,6,0,6,0,2025-11-03,2025-11-03,277,277.0,Tablet,Neurology,LASMIDITAN,NDA,6.0,0.0
+Oxaliplatin Injection,6,3,6,0,6,0,2025-10-20,2026-06-29,291,163.0,Injection,Oncology,OXALIPLATIN,ANDA,53.0,0.0
+Peritoneal Dialysis Solution,6,1,6,0,6,0,2026-03-10,2026-03-10,150,150.0,Solution,Renal,CALCIUM CHLORIDE; DEXTROSE MONOHYDRATE; MAGNESIUM CHLORIDE; SODIUM CHLORIDE; SODIUM LACTATE,NDA,,0.0
+Activated Charcoal Oral Suspension,5,1,5,0,5,0,2026-05-15,2026-05-15,84,84.0,Oral Suspension,Other,ACTIVATED CHARCOAL,Other,240.0,0.0
+Adalimumab-adaz Injection,5,1,5,0,5,0,2026-01-13,2026-01-13,206,206.0,Injection,Rheumatology,ADALIMUMAB,BLA,60.0,0.0
+Ampicillin Sodium Injection,5,1,5,0,5,0,2025-12-08,2025-12-08,242,242.0,Injection,Anti-Infective,AMPICILLIN SODIUM,ANDA,121.0,0.0
+Dextrose Monohydrate 50% Injection,5,2,4,4,1,0,2022-01-13,2025-11-07,1667,1667.0,Injection,Endocrinology/Metabolism; Gastroenterology; Pediatric,DEXTROSE MONOHYDRATE,ANDA; NDA,221.0,0.8
+Leflunomide Tablet,5,1,5,0,5,0,2026-06-08,2026-06-08,60,60.0,Tablet,Rheumatology,LEFLUNOMIDE,NDA,50.0,0.0
+Pilocarpine Hydrochloride Ophthalmic Solution,5,1,5,0,5,0,2026-03-24,2026-03-24,136,136.0,Ophthalmic Solution,Ophthalmology,PILOCARPINE HYDROCHLORIDE,NDA,36.0,0.0
+Allopurinol Tablet,4,1,4,0,4,0,2026-02-19,2026-02-19,169,169.0,Tablet,Oncology; Renal; Rheumatology,ALLOPURINOL,NDA,184.0,0.0
+Belladonna and Opium Suppository,4,1,4,0,4,0,2026-07-23,2026-07-23,15,15.0,Suppository,Analgesia/Addiction,ATROPA BELLADONNA; OPIUM,,,0.0
+Desmopressin Acetate Spray,4,2,4,4,0,0,2021-03-12,2021-03-12,1974,1974.0,Spray,Hematology,DESMOPRESSIN ACETATE,ANDA,70.0,1.0
+Dextrose Monohydrate 70% Injection,4,3,4,4,0,0,2024-10-11,2024-10-11,665,665.0,Injection,Endocrinology/Metabolism; Gastroenterology; Other; Pediatric,DEXTROSE,NDA,47.0,1.0
+Fluphenazine Hydrochloride Tablet,4,1,4,0,4,0,2025-09-18,2025-09-18,323,323.0,Tablet,Neurology; Psychiatry,FLUPHENAZINE HYDROCHLORIDE,ANDA,118.0,0.0
+Fondaparinux Sodium Injection,4,1,4,0,4,0,2025-09-29,2025-09-29,312,312.0,Injection,Hematology,FONDAPARINUX SODIUM,ANDA,33.0,0.0
+Gadobutrol Injection,4,1,4,0,4,0,2026-06-30,2026-06-30,38,38.0,Injection,Medical Imaging,GADOBUTROL,ANDA,23.0,0.0
+Glycopyrrolate Injection,4,1,4,0,4,0,2026-07-30,2026-07-30,8,8.0,Injection,Anesthesia,GLYCOPYRROLATE,ANDA,226.0,0.0
+"Guanfacine Hydrochloride Tablet, Extended Release",4,1,4,0,4,0,2025-11-13,2025-11-13,267,267.0,Tablet,Psychiatry,GUANFACINE HYDROCHLORIDE,ANDA,120.0,0.0
+Irinotecan Hydrochloride Injection,4,2,4,0,4,0,2025-09-26,2026-02-24,315,239.5,Injection,Oncology,IRINOTECAN HYDROCHLORIDE,ANDA,41.0,0.0
+Lopinavir and Ritonavir Tablet,4,1,4,0,4,0,2026-07-24,2026-07-24,14,14.0,Tablet,Antiviral,LOPINAVIR; RITONAVIR,NDA,,0.0
+"Methylphenidate Film, Extended Release",4,1,4,4,0,0,2025-02-28,2025-02-28,525,525.0,"Film, Extended Release",Psychiatry,METHYLPHENIDATE,NDA,30.0,1.0
+Metronidazole Injection,4,3,4,4,0,0,2022-01-13,2022-01-13,1667,1667.0,Injection,Anti-Infective,METRONIDAZOLE,ANDA; NDA,191.0,1.0
+Morphine Sulfate Suppository,4,1,4,0,4,0,2026-07-23,2026-07-23,15,15.0,Suppository,Analgesia/Addiction,MORPHINE SULFATE,,159.0,0.0
+Pemetrexed Disodium Injection,4,2,4,0,4,0,2025-10-10,2025-10-16,301,298.0,Injection,Oncology,PEMETREXED DISODIUM,NDA,25.0,0.0
+Penicillin G Benzathine Injection,4,2,4,4,0,0,2023-04-26,2023-04-26,1199,1199.0,Injection,Anti-Infective,PENICILLIN G BENZATHINE,NDA,12.0,1.0
+"Potassium Chloride Tablet, Extended Release",4,1,4,0,4,0,2025-11-21,2025-11-21,259,259.0,Tablet,Endocrinology/Metabolism; Gastroenterology,POTASSIUM CHLORIDE,ANDA,655.0,0.0
+Rifampin Injection,4,3,3,3,1,0,2021-02-17,2026-04-20,1997,1997.0,Injection,Anti-Infective,RIFAMPIN,ANDA; NDA,31.0,0.75
+Riluzole Oral Suspension,4,1,4,4,0,0,2024-01-26,2024-01-26,924,924.0,Oral Suspension,Neurology,RILUZOLE,NDA,17.0,1.0
+Sufentanil Citrate Injection,4,2,4,4,0,0,2022-05-03,2022-05-03,1557,1557.0,Injection,Analgesia/Addiction; Pediatric,SUFENTANIL CITRATE,ANDA,8.0,1.0
+Tiagabine Hydrochloride Tablet,4,1,4,0,4,0,2026-04-15,2026-04-15,114,114.0,Tablet,Neurology,TIAGABINE HYDROCHLORIDE,NDA,20.0,0.0
+Valsartan Tablet,4,1,4,0,4,0,2025-11-19,2025-11-19,261,261.0,Tablet,Cardiovascular,VALSARTAN,ANDA,450.0,0.0
+Albuterol Sulfate Solution,3,3,3,3,0,0,2022-10-25,2022-10-25,1382,1382.0,Solution,Pediatric; Pulmonary/Allergy,ALBUTEROL SULFATE,ANDA,171.0,1.0
+"Carbamazepine Capsule, Extended Release",3,1,3,0,3,0,2025-12-19,2025-12-19,231,231.0,"Capsule, Extended Release",Neurology,CARBAMAZEPINE,NDA,174.0,0.0
+Caspofungin Acetate Injection,3,2,3,0,3,0,2026-01-12,2026-06-30,207,38.0,Injection,Anti-Infective,CASPOFUNGIN ACETATE,ANDA; NDA,21.0,0.0
+Clindamycin Hydrochloride Capsule,3,1,3,0,3,0,2026-02-25,2026-02-25,163,163.0,Capsule,Anti-Infective,CLINDAMYCIN HYDROCHLORIDE,NDA,110.0,0.0
+Dacomitinib Tablet,3,1,3,0,3,0,2026-06-08,2026-06-08,60,60.0,Tablet,Oncology,DACOMITINIB,NDA,5.0,0.0
+Doxercalciferol Injection,3,1,3,0,3,0,2025-12-10,2025-12-10,240,240.0,Injection,Endocrinology/Metabolism,,,,0.0
+Finasteride Tablet,3,1,3,0,3,0,2025-08-19,2025-08-19,353,353.0,Tablet,Urology,FINASTERIDE,ANDA,102.0,0.0
+"Fluticasone Propionate and Salmeterol Xinafoate Aerosol, Metered",3,1,3,0,3,0,2026-07-27,2026-07-27,11,11.0,,Pulmonary/Allergy,FLUTICASONE PROPIONATE; SALMETEROL XINAFOATE,NDA,,0.0
+"Fluvastatin Sodium Tablet, Extended Release",3,1,3,0,3,0,2026-01-27,2026-01-27,192,192.0,Tablet,Cardiovascular,FLUVASTATIN SODIUM,NDA,21.0,0.0
+Furosemide Oral Solution,3,1,3,3,0,0,2026-03-31,2026-03-31,129,129.0,Oral Solution,Cardiovascular,FUROSEMIDE,ANDA,242.0,1.0
+Gemcitabine Hydrochloride Injection,3,1,3,0,3,0,2025-09-11,2025-09-11,330,330.0,Injection,Oncology,GEMCITABINE HYDROCHLORIDE,NDA,58.0,0.0
+Itraconazole Capsule,3,1,3,0,3,0,2026-02-27,2026-02-27,161,161.0,Capsule,Anti-Infective; Other,ITRACONAZOLE,NDA,36.0,0.0
+Lincomycin Hydrochloride Injection,3,2,3,0,3,0,2026-02-25,2026-03-26,163,134.0,Injection,Anti-Infective,LINCOMYCIN HYDROCHLORIDE,ANDA; NDA,16.0,0.0
+Phenoxybenzamine Hydrochloride Capsule,3,1,3,0,3,0,2025-12-01,2025-12-01,249,249.0,Capsule,Cardiovascular,,,,0.0
+Prazosin Hydrochloride Capsule,3,1,3,0,3,0,2023-04-28,2023-04-28,1197,1197.0,Capsule,Cardiovascular,,,,0.0
+Semaglutide Tablet,3,1,3,0,3,0,2026-06-04,2026-06-04,64,64.0,Tablet,Endocrinology/Metabolism,SEMAGLUTIDE,NDA,136.0,0.0
+Sodium Chloride 0.9% Injection,3,1,3,0,3,0,2025-12-03,2025-12-03,247,247.0,Injection,Gastroenterology; Other; Renal,SODIUM CHLORIDE,NDA,1053.0,0.0
+Sulconazole Nitrate Solution,3,1,3,0,3,0,2026-05-08,2026-05-08,91,91.0,Solution,Dermatology,SULCONAZOLE NITRATE,NDA,5.0,0.0
+Technetium TC-99M Pyrophosphate Kit Injection,3,2,3,3,0,0,2023-12-27,2023-12-27,954,954.0,Injection,Medical Imaging,SODIUM PYROPHOSPHATE; STANNOUS CHLORIDE,NDA,1.0,1.0
+Vancomycin Hydrochloride Injection,3,1,3,0,3,0,2025-09-09,2025-11-14,332,332.0,Injection,Anti-Infective,VANCOMYCIN HYDROCHLORIDE,ANDA,152.0,0.0
+Anagrelide Hydrochloride Capsule,2,1,2,0,2,0,2025-11-19,2025-11-19,261,261.0,Capsule,Hematology,,,,0.0
+Azithromycin Injection,2,2,2,0,2,0,2025-09-09,2026-01-20,332,265.5,Injection,Anti-Infective,AZITHROMYCIN DIHYDRATE,NDA,176.0,0.0
+Azithromycin Tablet,2,1,2,0,2,0,2026-04-09,2026-04-09,120,120.0,Tablet,Anti-Infective,AZITHROMYCIN DIHYDRATE,NDA,176.0,0.0
+Calcitriol Capsule,2,1,2,0,2,0,2025-12-04,2025-12-04,246,246.0,Capsule,Endocrinology/Metabolism,CALCITRIOL,ANDA,58.0,0.0
+Cefepime Hydrochloride Injection,2,1,2,0,2,0,2026-02-10,2026-02-10,178,178.0,Injection,Anti-Infective,CEFEPIME HYDROCHLORIDE,ANDA,35.0,0.0
+Ceftazidime Injection,2,1,2,0,2,0,2025-11-14,2025-11-14,266,266.0,Injection,Anti-Infective,CEFTAZIDIME,ANDA,16.0,0.0
+Cisatracurium Besylate Injection,2,1,2,0,2,0,2026-05-06,2026-05-06,93,93.0,Injection,Analgesia/Addiction,CISATRACURIUM BESYLATE,ANDA,46.0,0.0
+Clindamycin Palmitate Hydrochloride Injection,2,1,1,0,2,0,2026-02-27,2026-03-26,161,147.5,Injection,Anti-Infective,CLINDAMYCIN PALMITATE HYDROCHLORIDE,ANDA,14.0,0.0
+Daptomycin Injection,2,1,2,0,2,0,2026-06-30,2026-06-30,38,38.0,Injection,Anti-Infective,DAPTOMYCIN,ANDA,64.0,0.0
+Decitabine Injection,2,1,2,0,2,0,2026-02-20,2026-02-20,168,168.0,Injection,Oncology,DECITABINE,ANDA,37.0,0.0
+Desonide Lotion,2,1,2,0,2,0,2025-09-18,2025-09-18,323,323.0,Lotion,Dermatology,DESONIDE,ANDA,39.0,0.0
+Docetaxel Injection,2,1,2,0,2,0,2026-02-20,2026-02-20,168,168.0,Injection,Oncology,,,,0.0
+"Donepezil Hydrochloride; Memantine Hydrochloride Capsule, Extended Release",2,1,2,0,2,0,2026-06-15,2026-06-15,53,53.0,"Capsule, Extended Release",Neurology,DONEPEZIL HYDROCHLORIDE; MEMANTINE HYDROCHLORIDE,ANDA,,0.0
+Doxycycline Hyclate Tablet,2,1,2,0,2,0,2026-01-12,2026-01-12,207,207.0,Tablet,Anti-Infective,,,,0.0
+"Doxycycline Hyclate Tablet, Delayed Release",2,1,2,0,2,0,2026-07-30,2026-07-30,8,8.0,Tablet,Anti-Infective,DOXYCYCLINE HYCLATE,ANDA,237.0,0.0
+Epinephrine Injection,2,1,2,0,2,0,2025-11-07,2025-11-07,273,273.0,Injection,Cardiovascular; Endocrinology/Metabolism,,,,0.0
+Etravirine Tablet,2,1,2,0,2,0,2026-04-28,2026-04-28,101,101.0,Tablet,Antiviral,ETRAVIRINE,NDA,22.0,0.0
+Frovatriptan Succinate Tablet,2,1,2,0,2,0,2025-11-12,2026-02-24,268,216.0,Tablet,Neurology,,,,0.0
+Haloperidol Decanoate Injection,2,1,2,0,2,0,2026-01-09,2026-01-09,210,210.0,Injection,Psychiatry,HALOPERIDOL DECANOATE,ANDA,63.0,0.0
+Hydrochlorothiazide Capsule,2,1,2,0,2,0,2025-11-19,2025-11-19,261,261.0,Capsule,Cardiovascular,HYDROCHLOROTHIAZIDE,NDA,948.0,0.0
+Hydrochlorothiazide; Quinapril Hydrochloride Tablet,2,1,2,0,2,0,2025-10-01,2025-10-01,310,310.0,Tablet,Cardiovascular,,,,0.0
+Hydrocortisone Acetate Suppository,2,1,2,0,2,0,2026-07-23,2026-07-23,15,15.0,Suppository,Analgesia/Addiction; Other,HYDROCORTISONE ACETATE,,143.0,0.0
+Hydroxocobalamin Injection,2,2,2,2,0,0,2024-11-04,2024-11-04,641,641.0,Injection,Other,HYDROXOCOBALAMIN,ANDA; NDA,5.0,1.0
+Icatibant Acetate Injection,2,1,2,0,2,0,2026-05-07,2026-05-07,92,92.0,Injection,Hematology,ICATIBANT ACETATE,ANDA,22.0,0.0
+Icosapent Ethyl Capsule,2,1,2,0,2,0,2026-04-01,2026-04-01,128,128.0,Capsule,Cardiovascular,,,,0.0
+Idelalisib Tablet,2,1,2,0,2,0,2026-04-07,2026-04-07,122,122.0,Tablet,Oncology,IDELALISIB,NDA,6.0,0.0
+Insulin Lispro-aabc Injection,2,1,2,0,2,0,2025-10-24,2025-10-24,287,287.0,Injection,Endocrinology/Metabolism,INSULIN LISPRO,BLA,54.0,0.0
+Ivabradine Hydrochloride Tablet,2,1,2,0,2,0,2026-03-24,2026-03-24,136,136.0,Tablet,Cardiovascular,IVABRADINE HYDROCHLORIDE,NDA,31.0,0.0
+Mirikizumab-mrkz Injection,2,1,2,0,2,0,2025-12-22,2025-12-22,228,228.0,Injection,Gastroenterology; Other,MIRIKIZUMAB,BLA,8.0,0.0
+Morphine Sulfate Tablet,2,1,2,0,2,0,2025-12-22,2025-12-22,228,228.0,Tablet,Analgesia/Addiction,MORPHINE SULFATE,ANDA,159.0,0.0
+Nilutamide Tablet,2,1,2,0,2,0,2025-12-01,2025-12-01,249,249.0,Tablet,Oncology,,,,0.0
+Obeticholic Acid Tablet,2,1,2,0,2,0,2025-09-19,2025-09-19,322,322.0,Tablet,Gastroenterology,,,,0.0
+Palbociclib Capsule,2,1,2,0,2,0,2026-04-22,2026-04-22,107,107.0,Capsule,Oncology,PALBOCICLIB,NDA,25.0,0.0
+Palivizumab Injection,2,1,2,0,2,0,2025-08-13,2025-08-13,359,359.0,Injection,Antiviral,PALIVIZUMAB,BLA,5.0,0.0
+Paricalcitol Capsule,2,1,2,0,2,0,2025-10-07,2025-10-07,304,304.0,Capsule,Endocrinology/Metabolism,PARICALCITOL,NDA,53.0,0.0
+Peginterferon alfa-2a Injection,2,1,2,2,0,0,2025-01-24,2025-01-24,560,560.0,Injection,Antiviral,PEGINTERFERON ALFA-2A,BLA,2.0,1.0
+Pilocarpine Hydrochloride Tablet,2,1,2,0,2,0,2025-09-19,2025-09-19,322,322.0,Tablet,Other,PILOCARPINE HYDROCHLORIDE,NDA,36.0,0.0
+Pindolol Tablet,2,1,2,0,2,0,2026-01-30,2026-01-30,189,189.0,Tablet,Cardiovascular,PINDOLOL,ANDA,19.0,0.0
+Pramlintide Acetate Injection,2,1,2,0,2,0,2025-10-27,2025-10-27,284,284.0,Injection,Endocrinology/Metabolism,PRAMLINTIDE ACETATE,NDA,4.0,0.0
+Propranolol Hydrochloride Injection,2,2,2,2,0,0,2023-10-31,2023-10-31,1011,1011.0,Injection,Cardiovascular,PROPRANOLOL HYDROCHLORIDE,ANDA,230.0,1.0
+Ramelteon Tablet,2,1,2,0,2,0,2026-03-19,2026-03-19,141,141.0,Tablet,Psychiatry,RAMELTEON,NDA,54.0,0.0
+Spironolactone Tablet,2,1,2,0,2,0,2025-12-10,2025-12-10,240,240.0,Tablet,Cardiovascular,SPIRONOLACTONE,NDA,205.0,0.0
+"Streptozocin Powder, For Solution",2,2,2,2,0,0,2022-07-12,2022-07-12,1487,1487.0,"Powder, For Solution",Oncology,CETIRIZINE HYDROCHLORIDE,NDA,487.0,1.0
+Sumatriptan Nasal Spray,2,1,2,0,2,0,2025-09-08,2025-09-08,333,333.0,Nasal Spray,Neurology,SUMATRIPTAN,NDA,16.0,0.0
+Travoprost Ophthalmic Solution,2,1,2,0,2,0,2026-07-07,2026-07-07,31,31.0,Ophthalmic Solution,Ophthalmology,TRAVOPROST,ANDA,31.0,0.0
+Valproate Sodium Injection,2,2,2,2,0,0,2020-12-30,2020-12-30,2046,2046.0,Injection,Neurology,VALPROATE SODIUM,ANDA,29.0,1.0
+Adalimumab-afzb Injection,1,1,1,0,1,0,2025-10-09,2025-10-09,302,302.0,Injection,Rheumatology,,BLA,,0.0
+Adalimumab-ryvk Kit,1,1,1,0,1,0,2025-11-13,2025-11-13,267,267.0,,Rheumatology,,BLA,,0.0
+Alteplase Injection,1,1,1,0,1,0,2026-05-21,2026-05-21,78,78.0,Injection,Cardiovascular; Hematology; Neurology,,BLA,,0.0
+Amphotericin B Injection,1,1,1,0,1,0,2025-08-08,2025-08-08,364,364.0,Injection,Anti-Infective,,,,0.0
+Aprepitant Oral Powder for Suspension,1,1,1,0,1,0,2026-04-08,2026-04-08,121,121.0,,Gastroenterology,APREPITANT,NDA,37.0,0.0
+Arsenic Trioxide Injection,1,1,1,0,1,0,2026-02-24,2026-02-24,164,164.0,Injection,Oncology,ARSENIC TRIOXIDE,ANDA,787.0,0.0
+Aspirin Suppository,1,1,1,0,1,0,2026-07-23,2026-07-23,15,15.0,Suppository,Analgesia/Addiction; Cardiovascular,ASPIRIN,,817.0,0.0
+Atazanavir Sulfate; Cobicistat Tablet,1,1,1,0,1,0,2025-11-03,2025-11-03,277,277.0,Tablet,Antiviral,ATAZANAVIR SULFATE; COBICISTAT,NDA,,0.0
+Azelastine Hydrochloride; Fluticasone Propionate Nasal Spray,1,1,1,0,1,0,2025-09-04,2025-09-04,337,337.0,Nasal Spray,Pulmonary/Allergy,AZELASTINE HYDROCHLORIDE; FLUTICASONE PROPIONATE,NDA,,0.0
+Bacitracin Ophthalmic Ointment,1,1,1,1,0,0,2025-03-03,2025-03-03,522,522.0,Ophthalmic Ointment,Anti-Infective; Ophthalmology,,,,1.0
+"Bendamustine Hydrochloride Injection, Solution",1,1,1,0,1,0,2026-07-23,2026-07-23,15,15.0,Injection,Oncology,BENDAMUSTINE HYDROCHLORIDE,NDA,28.0,0.0
+Benztropine Mesylate Injection,1,1,1,0,1,0,2026-01-27,2026-01-27,192,192.0,Injection,Neurology,BENZTROPINE MESYLATE,ANDA,63.0,0.0
+Busulfan Injection,1,1,1,0,1,0,2025-10-24,2025-10-24,287,287.0,Injection,Hematology,,,,0.0
+Calcium Chloride Injection,1,1,1,0,1,0,2025-11-07,2025-11-07,273,273.0,Injection,Cardiovascular; Endocrinology/Metabolism,,,,0.0
+Cetrorelix Acetate Injection,1,1,1,0,1,0,2025-11-13,2025-11-13,267,267.0,Injection,Reproductive,,,,0.0
+Chlorothiazide Oral Suspension,1,1,1,0,1,0,2026-02-10,2026-02-10,178,178.0,Oral Suspension,Cardiovascular,CHLOROTHIAZIDE,NDA,7.0,0.0
+Cobicistat Tablet,1,1,1,0,1,0,2025-10-07,2025-10-07,304,304.0,Tablet,Antiviral,COBICISTAT,NDA,21.0,0.0
+Conivaptan Hydrochloride Injection,1,1,1,1,0,0,2022-03-14,2022-03-14,1607,1607.0,Injection,Cardiovascular,,,,1.0
+Crinecerfont Capsule,1,1,1,0,1,0,2026-04-28,2026-04-28,101,101.0,Capsule,Endocrinology/Metabolism,,,,0.0
+Dapsone Gel,1,1,1,0,1,0,2026-03-27,2026-03-27,133,133.0,Gel,Dermatology,DAPSONE,ANDA,70.0,0.0
+Deferiprone Tablet,1,1,1,0,1,0,2025-11-07,2025-11-07,273,273.0,Tablet,Hematology,,,,0.0
+"Dehydrated Alcohol Injection, Solution",1,1,1,0,1,0,2026-05-27,2026-05-27,72,72.0,Injection,Cardiovascular,ALCOHOL,ANDA,2819.0,0.0
+Desflurane Liquid for Inhalation,1,1,1,0,1,0,2026-07-02,2026-07-02,36,36.0,,Anesthesia,DESFLURANE,ANDA,7.0,0.0
+Diltiazem Hydrochloride Injection,1,1,1,0,1,0,2026-01-05,2026-01-05,214,214.0,Injection,Cardiovascular,DILTIAZEM HYDROCHLORIDE,ANDA,320.0,0.0
+"Doxylamine Succinate and Pyridoxine  Hydrochloride Tablet, Delayed Release",1,1,1,0,1,0,2026-01-12,2026-01-12,207,207.0,Tablet,Other,,,,0.0
+Echothiophate Iodide Ophthalmic Solution,1,1,1,1,0,0,2019-09-24,2019-09-24,2509,2509.0,Ophthalmic Solution,Ophthalmology,,NDA,,1.0
+Elbasvir; Grazoprevir Tablet,1,1,1,0,1,0,2025-10-17,2025-10-17,294,294.0,Tablet,Antiviral,ELBASVIR; GRAZOPREVIR ANHYDROUS,NDA,,0.0
+Emtricitabine Capsule,1,1,1,0,1,0,2026-06-17,2026-06-17,51,51.0,Capsule,Anti-Infective,EMTRICITABINE,NDA,120.0,0.0
+Emtricitabine Oral Solution,1,1,1,0,1,0,2026-06-17,2026-06-17,51,51.0,Oral Solution,Anti-Infective,EMTRICITABINE,NDA,120.0,0.0
+Fosaprepitant Dimeglumine Injection,1,1,1,0,1,0,2026-04-08,2026-04-08,121,121.0,Injection,Gastroenterology,FOSAPREPITANT DIMEGLUMINE,ANDA,41.0,0.0
+Gemfibrozil Tablet,1,1,1,0,1,0,2026-02-10,2026-02-10,178,178.0,Tablet,Endocrinology/Metabolism,GEMFIBROZIL,NDA,49.0,0.0
+Homatropine Methylbromide and Hydrocodone Bitartrate Syrup,1,1,1,0,1,0,2025-09-11,2025-09-11,330,330.0,Syrup,Analgesia/Addiction,HOMATROPINE METHYLBROMIDE; HYDROCODONE BITARTRATE,ANDA,,0.0
+Hydromorphone Hydrochloride Suppository,1,1,1,0,1,0,2026-07-23,2026-07-23,15,15.0,Suppository,Analgesia/Addiction,HYDROMORPHONE HYDROCHLORIDE,,92.0,0.0
+Hydroxychloroquine Sulfate Tablet,1,1,1,0,1,0,2026-01-05,2026-01-05,214,214.0,Tablet,Anti-Infective; Other; Rheumatology,HYDROXYCHLOROQUINE SULFATE,ANDA,72.0,0.0
+Imipenem and Cilastatin Injection,1,1,1,0,1,0,2026-01-08,2026-01-08,211,211.0,Injection,Anti-Infective,CILASTATIN SODIUM; IMIPENEM,NDA,,0.0
+Insulin Glargine Injection,1,1,1,0,1,0,2025-10-24,2025-10-24,287,287.0,Injection,Endocrinology/Metabolism,,,,0.0
+Insulin Lispro Injection,1,1,1,0,1,0,2025-10-24,2025-10-24,287,287.0,Injection,Endocrinology/Metabolism,INSULIN LISPRO,BLA,54.0,0.0
+Iron Sucrose Injection,1,1,1,0,1,0,2026-05-21,2026-05-21,78,78.0,Injection,Hematology,IRON SUCROSE,ANDA,36.0,0.0
+Isocarboxazid Tablet,1,1,1,1,0,0,2026-04-16,2026-04-16,113,113.0,Tablet,Psychiatry,ISOCARBOXAZID,NDA,2.0,1.0
+Ivabradine Solution,1,1,1,0,1,0,2026-03-24,2026-03-24,136,136.0,Solution,Cardiovascular,IVABRADINE HYDROCHLORIDE,NDA,31.0,0.0
+Ketamine Hydrochloride Injection,1,1,1,0,1,0,2025-11-07,2025-11-07,273,273.0,Injection,Anesthesia,,,,0.0
+Ketorolac Tromethamine Tablet,1,1,1,0,1,0,2026-04-20,2026-04-20,109,109.0,Tablet,Analgesia/Addiction,KETOROLAC TROMETHAMINE,ANDA,208.0,0.0
+Lopinavir and Ritonavir Oral Solution,1,1,1,0,1,0,2026-07-24,2026-07-24,14,14.0,Oral Solution,Antiviral,LOPINAVIR; RITONAVIR,NDA,,0.0
+Lorlatinib Tablet,1,1,1,0,1,0,2026-06-15,2026-06-15,53,53.0,Tablet,Oncology,LORLATINIB,NDA,5.0,0.0
+Maraviroc Solution,1,1,1,0,1,0,2026-01-20,2026-01-20,199,199.0,Solution,Antiviral,,NDA,,0.0
+"Montelukast Sodium Tablet, Chewable",1,1,1,0,1,0,2025-11-17,2025-11-17,263,263.0,"Tablet, Chewable",Pulmonary/Allergy,MONTELUKAST SODIUM,NDA,106.0,0.0
+Moxifloxacin Injection,1,1,1,0,1,0,2025-10-29,2025-10-29,282,282.0,Injection,Anti-Infective,MOXIFLOXACIN HYDROCHLORIDE,NDA,63.0,0.0
+Neostigmine Methylsulfate Injection,1,1,1,0,1,0,2026-01-12,2026-01-12,207,207.0,Injection,Analgesia/Addiction,NEOSTIGMINE METHYLSULFATE,NDA,65.0,0.0
+Nitrofurantoin Oral Suspension,1,1,1,0,1,0,2026-04-10,2026-04-10,119,119.0,Oral Suspension,Anti-Infective; Other,NITROFURANTOIN,ANDA,160.0,0.0
+Nitroglycerin Ointment,1,1,1,0,1,0,2026-04-14,2026-04-14,115,115.0,Ointment,Analgesia/Addiction,NITROGLYCERIN,NDA,201.0,0.0
+Oseltamivir Phosphate Capsule,1,1,1,0,1,0,2025-09-30,2025-09-30,311,311.0,Capsule,Antiviral,,,,0.0
+Oxycodone Hydrochloride Oral Solution,1,1,1,0,1,0,2025-09-11,2025-09-11,330,330.0,Oral Solution,Analgesia/Addiction,OXYCODONE HYDROCHLORIDE,ANDA,301.0,0.0
+Palonosetron Hydrochloride Injection,1,1,1,0,1,0,2025-11-14,2025-11-14,266,266.0,Injection,Gastroenterology,PALONOSETRON HYDROCHLORIDE,ANDA,37.0,0.0
+Pentamidine Isethionate Injection,1,1,1,0,1,0,2026-03-23,2026-03-23,137,137.0,Injection,Anti-Infective,PENTAMIDINE ISETHIONATE,ANDA,11.0,0.0
+Piperacillin and Tazobactam Injection,1,1,1,0,1,0,2026-01-20,2026-01-20,199,199.0,Injection,Anti-Infective,PIPERACILLIN SODIUM; TAZOBACTAM SODIUM,ANDA,,0.0
+Plerixafor Injection,1,1,1,0,1,0,2026-03-13,2026-03-13,147,147.0,Injection,Hematology,PLERIXAFOR,NDA,19.0,0.0
+Podofilox Topical Gel,1,1,1,0,1,0,2026-01-28,2026-01-28,191,191.0,Topical Gel,Dermatology; Other,PODOFILOX,NDA,6.0,0.0
+Podophyllum Resin Topical Tincture,1,1,1,0,1,0,2026-07-23,2026-07-23,15,15.0,,Dermatology,PODOPHYLLUM RESIN,,13.0,0.0
+Posaconazole Injection,1,1,1,0,1,0,2025-12-02,2025-12-02,248,248.0,Injection,Anti-Infective,POSACONAZOLE,NDA,63.0,0.0
+Progesterone Vaginal Gel,1,1,1,0,1,0,2026-03-27,2026-03-27,133,133.0,Vaginal Gel,Urology,PROGESTERONE,NDA,213.0,0.0
+Riboflavin 5-phosphate  Ophthalmic Solution,1,1,1,0,1,0,2026-01-20,2026-01-20,199,199.0,Ophthalmic Solution,Ophthalmology,,NDA,,0.0
+"Rifapentine Tablet, Film Coated",1,1,1,0,0,1,2020-03-25,2020-03-25,2326,2326.0,Tablet,Anti-Infective,RIFAPENTINE,NDA,4.0,0.0
+Ritonavir Oral Powder,1,1,1,0,1,0,2026-07-24,2026-07-24,14,14.0,Oral Powder,Antiviral,RITONAVIR,NDA,39.0,0.0
+Ritonavir Tablet,1,1,1,0,1,0,2026-07-24,2026-07-24,14,14.0,Tablet,Antiviral,RITONAVIR,NDA,39.0,0.0
+Scopolamine Transdermal System,1,1,1,0,1,0,2025-11-03,2025-11-03,277,277.0,Transdermal System,Gastroenterology; Neurology; Other,SCOPOLAMINE,ANDA,25.0,0.0
+Sodium Oxybate Solution,1,1,1,0,1,0,2025-12-29,2025-12-29,221,221.0,Solution,Psychiatry,,,,0.0
+Somatropin Injection,1,1,1,0,1,0,2025-11-14,2025-11-14,266,266.0,Injection,Endocrinology/Metabolism,SOMATROPIN,BLA,42.0,0.0
+Succinylcholine Chloride Injection,1,1,1,0,1,0,2026-07-23,2026-07-23,15,15.0,Injection,Anesthesia,SUCCINYLCHOLINE CHLORIDE,ANDA,41.0,0.0
+Tafamidis Meglumine Capsule,1,1,1,0,1,0,2025-09-29,2025-09-29,312,312.0,Capsule,Cardiovascular,TAFAMIDIS MEGLUMINE,NDA,13.0,0.0
+Tazemetostat Hydrobromide Tablet,1,1,1,0,1,0,2026-03-27,2026-03-27,133,133.0,Tablet,Oncology,TAZEMETOSTAT HYDROBROMIDE,NDA,2.0,0.0
+Tobramycin Sulfate Injection,1,1,1,0,1,0,2026-07-17,2026-07-17,21,21.0,Injection,Anti-Infective,TOBRAMYCIN SULFATE,ANDA,27.0,0.0
+Tranylcypromine Sulfate Tablet,1,1,1,0,1,0,2025-10-21,2025-10-21,290,290.0,Tablet,Psychiatry,TRANYLCYPROMINE SULFATE,NDA,7.0,0.0
+Triamcinolone Acetonide Injection,1,1,1,0,0,1,2021-09-27,2021-09-27,1775,1775.0,Injection,Ophthalmology,TRIAMCINOLONE ACETONIDE,NDA,330.0,0.0
+Triamcinolone Hexacetonide Injection,1,1,1,1,0,0,2021-05-04,2021-05-04,1921,1921.0,Injection,Rheumatology,TRIAMCINOLONE HEXACETONIDE,,3.0,1.0
+Triazolam Tablet,1,1,1,0,1,0,2025-09-29,2025-09-29,312,312.0,Tablet,Psychiatry,,,,0.0
+Ursodiol Capsule,1,1,1,0,1,0,2026-04-06,2026-04-06,123,123.0,Capsule,Other,URSODIOL,ANDA,71.0,0.0
+Vecuronium Bromide Injection,1,1,1,0,1,0,2025-09-08,2025-09-08,333,333.0,Injection,Anesthesia,,,,0.0
+Verapamil Hydrochloride Injection,1,1,1,0,1,0,2025-11-21,2025-11-21,259,259.0,Injection,Cardiovascular,,,,0.0
+Vigabatrin Oral Solution,1,1,1,0,1,0,2025-10-16,2025-10-16,295,295.0,Oral Solution,Neurology,,,,0.0
+Voriconazole Injection,1,1,1,0,1,0,2025-10-16,2025-10-16,295,295.0,Injection,Antiviral,VORICONAZOLE,NDA,81.0,0.0
