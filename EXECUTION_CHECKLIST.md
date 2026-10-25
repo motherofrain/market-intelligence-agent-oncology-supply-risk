@@ -16,7 +16,7 @@
 | 0.2 | Template saved as `research-brief-template.docx`; its structure and the one rubric mismatch are in `BRIEF_STRUCTURE.md` | User + me | DONE |
 | 0.3 | Start the lab: *Cloud Resources* tab, Start Cloud Resources, Open Cloud Console, then click the **UdacityQuicksightLab** tile (the pane cannot open that popup, so the user clicks it) | User | DONE |
 | 0.4 | QuickSuite confirmed open and signed in; the sidebar has **Spaces**, **Research**, **Chat agents**, Apps, Flows, Analyses, Dashboards and Data | Me | DONE |
-| 0.5 | Decide the research topic and business question (see section 1) | User | ☐ |
+| 0.5 | Decide the research topic and business question (see section 1) | User | DONE |
 
 **Watch out:** Quick Research time is limited ("allocated Quick Research hours"). Pick the topic before spending any of it.
 
@@ -26,10 +26,10 @@
 
 | # | Step | Rubric line it serves | Done |
 |---|---|---|---|
-| 1.1 | Pick a Kaggle dataset suitable for market or competitive analysis | Instructions step 1 | ☐ |
-| 1.2 | Write the **Research Objective**: the business question or decision the work supports | Research Framing #1 | ☐ |
-| 1.3 | Write the **Scope**: what is included and what is excluded, covering at least two of — markets/industries, competitor types, timeframe, key constraints | Research Framing #1 | ☐ |
-| 1.4 | Plan the **Research Approach**: the kinds of questions to ask, how effort is prioritised, which QuickSuite tools are used | Research Framing #2 | ☐ |
+| 1.1 | Pick a Kaggle dataset suitable for market or competitive analysis | Instructions step 1 | DONE |
+| 1.2 | Write the **Research Objective**: the business question or decision the work supports | Research Framing #1 | DONE |
+| 1.3 | Write the **Scope**: what is included and what is excluded, covering at least two of — markets/industries, competitor types, timeframe, key constraints | Research Framing #1 | DONE |
+| 1.4 | Plan the **Research Approach**: the kinds of questions to ask, how effort is prioritised, which QuickSuite tools are used | Research Framing #2 | DONE |
 
 A tight objective is what keeps the research inside the time budget. Write 1.2 and 1.3 before opening Quick Research.
 
@@ -39,14 +39,14 @@ A tight objective is what keeps the research inside the time budget. Write 1.2 a
 
 | # | Step | Evidence to capture | Done |
 |---|---|---|---|
-| 2.1 | Download the chosen Kaggle dataset, keep Kaggle's file format | — | ☐ |
-| 2.2 | Create a **Space** and upload the dataset to it | screenshot: Space with dataset | ☐ |
-| 2.3 | Create the agent: **Agents → Create agent**, named `Market Intelligence Agent – <Topic>` | screenshot: agent config | ☐ |
-| 2.4 | Set the purpose: *"You are a Market Intelligence Agent. Your job is to analyze a dataset and external market signals to produce a market analysis and a leadership-ready brief."* | screenshot: purpose field | ☐ |
-| 2.5 | Attach the dataset as the agent's internal knowledge source, then save | screenshot: knowledge source attached | ☐ |
-| 2.6 | Run **Quick Research** on a focused objective (competitor landscape, pricing, growth, regional dynamics) | screenshot: research output | ☐ |
-| 2.7 | Save the Quick Research outputs so they can be referenced later | screenshot: saved output in the Space | ☐ |
-| 2.8 | Use **Quick Chat (Q)** to explore and refine what matters | screenshot: conversation | ☐ |
+| 2.1 | Download the chosen Kaggle dataset, keep Kaggle's file format | — | DONE |
+| 2.2 | Create a **Space** and upload the dataset to it | screenshot: Space with dataset | DONE |
+| 2.3 | Create the agent: **Agents → Create agent**, named `Market Intelligence Agent – <Topic>` | screenshot: agent config | DONE |
+| 2.4 | Set the purpose: *"You are a Market Intelligence Agent. Your job is to analyze a dataset and external market signals to produce a market analysis and a leadership-ready brief."* | screenshot: purpose field | DONE |
+| 2.5 | Attach the dataset as the agent's internal knowledge source, then save | screenshot: knowledge source attached | DONE |
+| 2.6 | Run **Quick Research** on a focused objective (competitor landscape, pricing, growth, regional dynamics) | screenshot: research output | DONE |
+| 2.7 | Save the Quick Research outputs so they can be referenced later | screenshot: 05_quick_research_report | DONE, with a caveat: the report is saved in Quick Research and a full copy with its sources is in `research-outputs\quick_research_south_africa_K.M.md`. It could NOT be added to the Space: the Add knowledge dialog only accepts dashboards, knowledge bases, actions, topics and datasets, not research reports. |
+| 2.8 | Use **Quick Chat (Q)** to explore and refine what matters | screenshot: conversation | DONE |
 
 Quick Research is required: the project is market intelligence, not dataset reporting.
 
@@ -56,10 +56,10 @@ Quick Research is required: the project is market intelligence, not dataset repo
 
 | # | Step | Done |
 |---|---|---|
-| 3.1 | Give the agent the dataset context, the goal, and the Quick Research outputs | ☐ |
-| 3.2 | Have it produce a **Market Analysis** covering: competitive landscape, key trends and signals, opportunities and risks, and evidence from both the dataset and Quick Research | ☐ |
-| 3.3 | Check every figure the agent states against the dataset or the named source — do not pass on a number you have not verified | ☐ |
-| 3.4 | Save the Market Analysis into the Space | ☐ |
+| 3.1 | Give the agent the dataset context, the goal, and the Quick Research outputs | DONE |
+| 3.2 | Have it produce a **Market Analysis** covering: competitive landscape, key trends and signals, opportunities and risks, and evidence from both the dataset and Quick Research | DONE |
+| 3.3 | Check every figure the agent states against the dataset or the named source — do not pass on a number you have not verified | DONE |
+| 3.4 | Save the Market Analysis into the Space | DONE |
 
 **Lesson from NovaTech:** the agent invented a cross-source answer that looked right. Anything it cannot source gets dropped or labelled.
 
@@ -71,15 +71,15 @@ Use the downloaded template. These section names come straight from the rubric, 
 
 | # | Section | What must be in it | Done |
 |---|---|---|---|
-| 4.1 | **Research Objective** | The business question or decision supported | ☐ |
-| 4.2 | **Scope of Research** | Included vs excluded, at least two of: markets, competitor types, timeframe, constraints | ☐ |
-| 4.3 | **Research Approach** | Types of questions asked, how effort was prioritised, QuickSuite tools used | ☐ |
-| 4.4 | **Key Market Insights** | **3–5 insights**; each with *Insight Summary*, *Supporting Evidence/Signals*, *Why This Insight Matters*. Evidence must be specific and verifiable (figures, named sources) and must match the insight | ☐ |
-| 4.5 | **Visual Evidence** | Either reference at least one visual, giving chart type + what it shows + which insight it supports, **or** state plainly that no visuals were used. Every referenced visual needs a screenshot | ☐ |
-| 4.6 | **Confidence Assessment** | Per insight: source quality, consistency across sources, timeliness, overall confidence **High/Medium/Low** | ☐ |
-| 4.7 | **Limitations and Risks** | At least **two** concrete items (missing data, conflicting signals, bias, assumptions) | ☐ |
-| 4.8 | **Strategic Implications** | What decisions this could inform, plus **What should not be concluded** with at least **two** explicit non-conclusions | ☐ |
-| 4.9 | **Summary for Leadership** | **5–7 sentences**: most important insights, overall confidence level, key takeaways | ☐ |
+| 4.1 | **Research Objective** | The business question or decision supported | DONE |
+| 4.2 | **Scope of Research** | Included vs excluded, at least two of: markets, competitor types, timeframe, constraints | DONE |
+| 4.3 | **Research Approach** | Types of questions asked, how effort was prioritised, QuickSuite tools used | DONE |
+| 4.4 | **Key Market Insights** | **3–5 insights**; each with *Insight Summary*, *Supporting Evidence/Signals*, *Why This Insight Matters*. Evidence must be specific and verifiable (figures, named sources) and must match the insight | DONE |
+| 4.5 | **Visual Evidence** | Either reference at least one visual, giving chart type + what it shows + which insight it supports, **or** state plainly that no visuals were used. Every referenced visual needs a screenshot | DONE |
+| 4.6 | **Confidence Assessment** | Per insight: source quality, consistency across sources, timeliness, overall confidence **High/Medium/Low** | DONE |
+| 4.7 | **Limitations and Risks** | At least **two** concrete items (missing data, conflicting signals, bias, assumptions) | DONE |
+| 4.8 | **Strategic Implications** | What decisions this could inform, plus **What should not be concluded** with at least **two** explicit non-conclusions | DONE |
+| 4.9 | **Summary for Leadership** | **5–7 sentences**: most important insights, overall confidence level, key takeaways | DONE |
 
 ### Writing rules (this is what failed NovaTech)
 - Define every technical term, acronym and product name **where it first appears** — CRM, ROI, AI, Kaggle, QuickSuite, Space, agent, dataset.
@@ -93,13 +93,13 @@ Use the downloaded template. These section names come straight from the rubric, 
 
 | # | Step | Who | Done |
 |---|---|---|---|
-| 5.1 | Add to the Space: dataset reference, Quick Research outputs, Market Analysis, Research Brief, reliability evaluation | Me | ☐ |
-| 5.2 | Order the Space so a stakeholder can review it quickly | Me | ☐ |
-| 5.3 | Collect all screenshots into `screenshots\`, named by step | Me | ☐ |
-| 5.4 | Final read against every rubric line in section 4 | Me | ☐ |
+| 5.1 | Add to the Space: dataset reference, Quick Research outputs, Market Analysis, Research Brief, reliability evaluation | Me | **PARTIAL.** In the Space: both data files, the Market Analysis and the chart. Not in the Space: the Research Brief and the reliability evaluation, which would need another upload through the Windows file dialog, and the Quick Research report, which the Space will not accept. All five are in the GitHub repository. |
+| 5.2 | Order the Space so a stakeholder can review it quickly | Me | DONE. The Space holds four clearly named items and a description that says what each one is for, so no further ordering was needed. |
+| 5.3 | Collect all screenshots into `screenshots\`, named by step | Me | DONE |
+| 5.4 | Final read against every rubric line in section 4 | Me | DONE |
 | 5.5 | Check the brief and screenshots for assistant-tool names and lab email addresses before packaging | Me | DONE |
-| 5.6 | Zip the brief + screenshots (500 MB limit) **or** push a public GitHub repo | Me | ☐ |
-| 5.7 | Upload and submit on the project page | User | ☐ |
+| 5.6 | Zip the brief + screenshots (500 MB limit) **or** push a public GitHub repo | Me | DONE |
+| 5.7 | Upload and submit on the project page | User | **OUTSTANDING — the only remaining step.** Repository: https://github.com/motherofrain/market-intelligence-agent-oncology-supply-risk |
 
 ---
 
